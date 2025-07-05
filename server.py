@@ -59,4 +59,4 @@ def kubescape_scan_image(image: str, args: Optional[str] = None) -> str:
         return f"Error: {e.stderr or str(e)}"
 
 if __name__ == "__main__":
-    mcp.run()
+    mcp.run("stdio")
