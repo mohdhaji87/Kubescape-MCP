@@ -15,7 +15,11 @@ It exposes 4 tools which are CLI commands from kubescape.
 <img width="761" alt="image" src="https://github.com/user-attachments/assets/560b342f-aeb6-484c-93b6-20ada9877ca8" />
 
 
+
+
 -> Promting to scan nginx image
+
+
 <img width="761" alt="image" src="https://github.com/user-attachments/assets/eac10ff5-48e6-442a-8e42-9b17a858f1d8" />
 
 
