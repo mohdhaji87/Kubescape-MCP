@@ -1,5 +1,15 @@
 Pre requisties is to install kubescape cli https://kubescape.io/docs/getting-started/
 
+-> Install uv and add below json config file to claude desktop or cursor.
+
+{
+  "mcpServers": {
+
+      "kubescapeserver": {"command":"uv",
+     "args": ["--directory", "/Users/haji/mcp-servers/kubescapeserver", "run", "server.py"]}    
+}
+}
+
 It exposes 4 tools which are CLI commands from kubescape.
 
 <img width="671" alt="image" src="https://github.com/user-attachments/assets/d08398ff-de85-474c-a686-4b83c50dc910" />
@@ -17,7 +27,7 @@ It exposes 4 tools which are CLI commands from kubescape.
 
 
 
--> Promting to scan nginx image
+-> Prompting to scan nginx image
 
 
 <img width="761" alt="image" src="https://github.com/user-attachments/assets/eac10ff5-48e6-442a-8e42-9b17a858f1d8" />
